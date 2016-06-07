@@ -1,0 +1,13 @@
+div.col-sm-3 sidenav {
+	background-color: #C0C0C0;
+	text-align: center;
+	color: red;
+}
+/*div.col-sm-3 sidenav h5 {
+	color: red;
+	text-align: center;
+}*/
+
+.container-fluid {
+float: left;
+}
